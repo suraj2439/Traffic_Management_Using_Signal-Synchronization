@@ -5,14 +5,18 @@ Team Members:-
 	1) Siddhesh Rajendra Mehta 	MIS: 111903105
 	2) Tushar Ram Godbole		MIS: 111903115
 	3) Suraj Machhindra Yerkal	MIS: 111903109
+
 Programming Language Used:- PYTHON
+
 GUI:- PYGAME
+
 Supporting Libraries:-
 	pygame
 	matplotlib
 	time
 	random
 	numpy
+
 
 
 Project Discription:-
