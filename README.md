@@ -1,7 +1,7 @@
 
 Project Name:- Traffic Management Using Signal Syncronization.
 
-Team Members:-	
+Team Members:-
 	1) Siddhesh Rajendra Mehta 	MIS: 111903105
 	2) Tushar Ram Godbole		MIS: 111903115
 	3) Suraj Machhindra Yerkal	MIS: 111903109
@@ -19,8 +19,8 @@ Supporting Libraries:-
 
 
 
-Project Discription:-
 
+Project Discription:-
 Cause Of Traffic:
 	By normal observation we can see that traffic problem occurs only at some
 specific location like big highways other location donot have much traffic at
